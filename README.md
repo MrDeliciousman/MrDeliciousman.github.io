@@ -37,14 +37,14 @@
  
  ![prodev2](https://user-images.githubusercontent.com/45956191/52171639-99d63d00-271d-11e9-8393-a3acbd53b368.jpg)
 
- write something.
+ Picture 1 represents me going through the motions and building up my skill sets. I am doing work that may seem monotonous but is very critical for be to be successful.
  
  ![prodev1](https://user-images.githubusercontent.com/45956191/52171638-99d63d00-271d-11e9-8fed-91f2c8302192.jpg)
  
- write something.
+ Picture 2 represents me having all of the necessary skills to achieve my dreams through technical prowess and creative ideas. I will be able to execute on inspiring others through the use my my 3D art through a multitude of apps and other methods.
   
   ## Weekly Reflection.
   
   1. There is so much to learn and so little time. This week I have learned a lot but it seems that the mountain of info is getting bigger faster then I can process. I have learned about Types, Primitives, Methods, Classes, and Instances. However, as I learn more questions arise. But, I feel that the way that I think about problems are changing. I am starting to think how I can present solutions into Java code so that I can write my own methods. Overall, learning Java is like a blurry image that is slowly becoming more clear everyday that passes.
   
-  2. This week has had many highs and many lows. In the beginning of the week I felt like I was falling behind. The daily activities were not making sense and I felt lost. I was wooried that I couldn't keep up. But, as I was reviewing the book, everything fell into place. It all made sense. It felt amazing to 
+  2. This week has had many highs and many lows. In the beginning of the week I felt like I was falling behind. The daily activities were not making sense and I felt lost. I was wooried that I couldn't keep up. But, as I was reviewing the book, everything fell into place. It all made sense. It felt amazing to connect the dots of the reading and the excercises we were doing in class.
