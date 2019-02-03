@@ -33,6 +33,12 @@
 * What?
   * Through Videogames and Apps.
   
+ ## Current and future pictures
+ 
+ write something.
+ 
+ ![prodev1](https://user-images.githubusercontent.com/45956191/52171638-99d63d00-271d-11e9-8fed-91f2c8302192.jpg)
+  
   ## Weekly Reflection.
   
   1. There is so much to learn and so little time. This week I have learned a lot but it seems that the mountain of info is getting bigger faster then I can process. I have learned about Types, Primitives, Methods, Classes, and Instances. However, as I learn more questions arise. But, I feel that the way that I think about problems are changing. I am starting to think how I can present solutions into Java code so that I can write my own methods. Overall, learning Java is like a blurry image that is slowly becoming more clear everyday that passes.
