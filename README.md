@@ -44,11 +44,12 @@
  Picture 2 represents me having all of the necessary skills to achieve my dreams through technical prowess and creative ideas. I will be able to execute on inspiring others through the use my my 3D art through a multitude of apps and other methods.
   
   ## Online Presence Review
-  Pros
+  ### Pros
   * Linkedin and Arstation found.
   * No incriminating photos.
   * Passion for 3D art present.
-  Cons
+ 
+ ### Cons
   * Not enough of a coding presence.
   * Github profile not found in google search.
   * May not update profiles frequently.
