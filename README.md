@@ -43,6 +43,15 @@
  
  Picture 2 represents me having all of the necessary skills to achieve my dreams through technical prowess and creative ideas. I will be able to execute on inspiring others through the use my my 3D art through a multitude of apps and other methods.
   
+  ## Online Presence Review
+  Pros
+  * Linkedin and Arstation found.
+  * No incriminating photos.
+  * Passion for 3D art present.
+  Cons
+  * Not enough of a coding presence.
+  * Github profile not found in google search.
+  * May not update profiles frequently.
   ## Weekly Reflection.
   
   1. There is so much to learn and so little time. This week I have learned a lot but it seems that the mountain of info is getting bigger faster then I can process. I have learned about Types, Primitives, Methods, Classes, and Instances. However, as I learn more questions arise. But, I feel that the way that I think about problems are changing. I am starting to think how I can present solutions into Java code so that I can write my own methods. Overall, learning Java is like a blurry image that is slowly becoming more clear everyday that passes.
