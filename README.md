@@ -8,6 +8,10 @@
 
 ## "Hi, my name is Thomas Herrera and I spark imagination and inspiration in users through the use of creating3D content. I do this by building apps and 3D environments using tools such as Maya, Substance Painter/Designer,  Unreal Engine, Zbrush and Java. I would love to meet with you and explore how to achieve my goals."
 
+## Resume Link
+
+* [Resume_Herrera_Thomas_DeepDiveCoding.pdf](https://github.com/MrDeliciousman/MrDeliciousman.github.io/files/2834749/Resume_Herrera_Thomas_DeepDiveCoding.pdf)
+
 ## Passion Project
 
 * to work on a triple A videogame that illicits an emotional response that challenges the players view on the world. I want to spark their imagination and creativity to continue to explore a 3D world that I built. A playground that is built to tell a story.
