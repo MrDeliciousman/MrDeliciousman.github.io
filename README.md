@@ -57,6 +57,27 @@
   * Not enough of a coding presence.
   * Github profile not found in google search.
   * May not update profiles frequently.
+  
+  ## Identify two orgs
+  
+  1. New Mexico Museum of Art.
+	
+     * Mary Kershaw-Director.
+	Phone: 505-476-5073
+	http://nmartmuseum.org/
+	I selected this company because I am a big advocate for art. I feel that many people don’t appreciate art because it is tough for them to understand their true beauty. I feel that the museum of art would benefit from creating new experiences that push the beauty of the artwork there. I feel that displaying some pieces in Virtual Reality and Augmented Reality would help immerse visitors to connect with the art on display in new and engaging mediums. 
+My strategy to meet with them is to build a demo to show my ideas to implement 3D recreations and implementation. I would make calls and pitch my idea; including visiting the museum and getting information so that I understand how my idea would benefit them.
+
+2. California Pastrami.
+
+    * Joe Rodriguez
+505-872-9253
+https://www.lotaburger.com/
+I selected California Pastrami because they don’t have a personal app that would help customers place orders quickly and easily. They would benefit from a personal app to take orders online easily without the need to search a website on the phone.They are a local business with 3 locations and I feel that they have great food. I would give the owner a call and pitch them my idea. They are a young business that is growing, and I feel that they would benefit from an app.
+
+
+
+  
   ## Weekly Reflection.
   
   1. There is so much to learn and so little time. This week I have learned a lot but it seems that the mountain of info is getting bigger faster then I can process. I have learned about Types, Primitives, Methods, Classes, and Instances. However, as I learn more questions arise. But, I feel that the way that I think about problems are changing. I am starting to think how I can present solutions into Java code so that I can write my own methods. Overall, learning Java is like a blurry image that is slowly becoming more clear everyday that passes.
