@@ -76,6 +76,15 @@ https://www.lotaburger.com/
 I selected California Pastrami because they don’t have a personal app that would help customers place orders quickly and easily. They would benefit from a personal app to take orders online easily without the need to search a website on the phone.They are a local business with 3 locations and I feel that they have great food. I would give the owner a call and pitch them my idea. They are a young business that is growing, and I feel that they would benefit from an app.
 
 
+## Stovetop Activity
+
+1. Get hired
+2. Build on the necessary skillset
+3. Build a project that shows my skillset.
+4. Build an online presence
+
+
+
 
   
   ## Weekly Reflection.
