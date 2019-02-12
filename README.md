@@ -10,8 +10,7 @@
 
 ## Resume Link
 
-* [Resume_Herrera_Thomas_DeepDiveCoding.pdf]([Resume_Herrera_Thomas_DeepDiveCoding.pdf](https://github.com/MrDeliciousman/MrDeliciousman.github.io/files/2854076/Resume_Herrera_Thomas_DeepDiveCoding.pdf))
-
+* [Resume_Herrera_Thomas_DeepDiveCoding.pdf](https://github.com/MrDeliciousman/MrDeliciousman.github.io/files/2854076/Resume_Herrera_Thomas_DeepDiveCoding.pdf)
 ## Passion Project
 
 * to work on a triple A videogame that illicits an emotional response that challenges the players view on the world. I want to spark their imagination and creativity to continue to explore a 3D world that I built. A playground that is built to tell a story.
