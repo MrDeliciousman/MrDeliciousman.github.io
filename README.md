@@ -10,7 +10,7 @@
 
 ## Resume Link
 
-* [Resume_Herrera_Thomas_DeepDiveCoding.pdf](https://github.com/MrDeliciousman/MrDeliciousman.github.io/files/2834749/Resume_Herrera_Thomas_DeepDiveCoding.pdf)
+* [Resume_Herrera_Thomas_DeepDiveCoding.pdf]([Resume_Herrera_Thomas_DeepDiveCoding.pdf](https://github.com/MrDeliciousman/MrDeliciousman.github.io/files/2854076/Resume_Herrera_Thomas_DeepDiveCoding.pdf))
 
 ## Passion Project
 
