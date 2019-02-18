@@ -16,6 +16,10 @@
 
 * to work on a triple A videogame that illicits an emotional response that challenges the players view on the world. I want to spark their imagination and creativity to continue to explore a 3D world that I built. A playground that is built to tell a story.
 
+## Collaboration Question Answer
+
+* The way that I work in a team is by making sure everyone is working effectively.I feel that it is very important for everyone to knoe what they are working on. My main role will be front-end development and the implementation of augmented reality in the app. My background of being a 3D Artist is very pivotal here that allows us to implement this idea. Moreover, my triggers would be seeing one of my team members fall behind because my grade depends on the whole team doing well. But, I feel that my communication skill will help me overcome this issue. I feel that it is important to help others become the best that they can be instead of putting them down. So I would work with them to help them overcome their obstacle.
+
 ## Qualitative Accomplishments
 
 * Passionate
