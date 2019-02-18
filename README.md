@@ -5,6 +5,7 @@
 * [Linkedin](https://www.linkedin.com/in/thomas-herrera-906414154?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMVKO0LNYRwCt77UTo0MdJA%3D%3D)
 * [GitHub](https://www.github.com/MrDeliciousman)
 * [Artstation](https://trherrera.artstation.com/)
+* [The Covenant Ground Rules](https://github.com/project-progression-system/ground-rules)
 
 ## "Hi, my name is Thomas Herrera and I spark imagination and inspiration in users through the use of creating3D content. I do this by building apps and 3D environments using tools such as Maya, Substance Painter/Designer,  Unreal Engine, Zbrush and Java. I would love to meet with you and explore how to achieve my goals."
 
